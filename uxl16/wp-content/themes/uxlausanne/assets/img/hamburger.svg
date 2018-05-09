@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="hamburger" sketch:type="MSArtboardGroup" fill="#FF5A5F">
+            <path d="M38,41.0093689 C38,40.4519098 38.4474692,40 39.0006946,40 L60.9993054,40 C61.5519738,40 62,40.4433532 62,41.0093689 L62,42.9906311 C62,43.5480902 61.5525308,44 60.9993054,44 L39.0006946,44 C38.4480262,44 38,43.5566468 38,42.9906311 L38,41.0093689 Z M38,49.0093689 C38,48.4519098 38.4474692,48 39.0006946,48 L60.9993054,48 C61.5519738,48 62,48.4433532 62,49.0093689 L62,50.9906311 C62,51.5480902 61.5525308,52 60.9993054,52 L39.0006946,52 C38.4480262,52 38,51.5566468 38,50.9906311 L38,49.0093689 Z M38,57.0093689 C38,56.4519098 38.4474692,56 39.0006946,56 L60.9993054,56 C61.5519738,56 62,56.4433532 62,57.0093689 L62,58.9906311 C62,59.5480902 61.5525308,60 60.9993054,60 L39.0006946,60 C38.4480262,60 38,59.5566468 38,58.9906311 L38,57.0093689 Z" id="Rectangle-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
